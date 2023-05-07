@@ -6,7 +6,7 @@
 | ***Intermediate*** | ***Beginner*** | ***Learning*** | ***Want To Learn*** |
 | ----------- | ----------- | ----------- | ----------- |
 | Lua | Java | C++ | Kotlin
-| C# | <Beginner> | <Learning> | Rust
+| C# | <Beginner> | Go | Rust
 | JavaScript | <Beginner> | <Learning> | <Want To Learn>
 | Python | <Beginner> | <Learning> | <Want To Learn>
 
