@@ -4,12 +4,41 @@
 
 ---
 
-## Languages I Know
+<table>
+  <h2>Languages</h2>
+  <thead>
+    <tr>
+      <th>Level</th>
+      <th>Image</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Intermediate</td>
+      <td><img src="intermediate_image.jpg" alt="Intermediate"></td>
+    </tr>
+    <tr>
+      <td>Beginner</td>
+      <td><img src="beginner_image.jpg" alt="Beginner"></td>
+    </tr>
+    <tr>
+      <td>Learning</td>
+      <td><img src="learning_image.jpg" alt="Learning"></td>
+    </tr>
+    <tr>
+      <td>Want To Learn</td>
+      <td><img src="want_to_learn_image.jpg" alt="Want To Learn"></td>
+    </tr>
+  </tbody>
+</table>
+
+
+## Languages
 | ***Intermediate*** | ***Beginner*** | ***Learning*** | ***Want To Learn*** |
 | ----------- | ----------- | ----------- | ----------- |
-| Lua | Java | <Learning> | Kotlin
-| C# | C++ | <Learning> | Rust
-| JavaScript | Go | <Learning> | <Want To Learn>
+| <img src="https://static-00.iconduck.com/assets.00/file-type-lua-icon-2048x2048-joz42384.png" width="38" height="38"/> | Java | <Learning> | Kotlin
+| <img src="https://i0.wp.com/dotnetcrunch.in/wp-content/uploads/2020/02/C-Sharp-01.png?resize=300%2C300&ssl=1" width="42" height="42"/> | C++ | <Learning> | Rust
+| <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" width="32" height="32"/> | Go | <Learning> | <Want To Learn>
 | Python | <Beginner> | <Learning> | <Want To Learn>
 
 ---
