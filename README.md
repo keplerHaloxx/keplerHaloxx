@@ -9,7 +9,7 @@
   <thead>
     <tr>
       <th>Level</th>
-      <th>Image</th>
+      <th>Language</th>
     </tr>
   </thead>
   <tbody>
