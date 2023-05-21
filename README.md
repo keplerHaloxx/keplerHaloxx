@@ -1,6 +1,6 @@
 [![Banner](https://assets.ppy.sh/user-profile-covers/6117525/54f053e1e3c818c2728c971e210084dcd29b0a30afcc0e5ef800ad2786f8c161.jpeg)](https://github.com/keplerHaloxx)
 
-[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=500&center=true&vCenter=true&width=915&lines=I+am+Haloxx)](https://git.io/typing-svg)
+[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=500&center=true&vCenter=true&width=950&lines=I+am+Haloxx)](https://git.io/typing-svg)
 
 ---
 
