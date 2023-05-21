@@ -7,9 +7,9 @@
 ## Languages I Know
 | ***Intermediate*** | ***Beginner*** | ***Learning*** | ***Want To Learn*** |
 | ----------- | ----------- | ----------- | ----------- |
-| Lua | Java | C++ | Kotlin
-| C# | <Beginner> | Go | Rust
-| JavaScript | <Beginner> | <Learning> | <Want To Learn>
+| Lua | Java | <Learning> | Kotlin
+| C# | C++ | <Learning> | Rust
+| JavaScript | Go | <Learning> | <Want To Learn>
 | Python | <Beginner> | <Learning> | <Want To Learn>
 
 ---
