@@ -1,3 +1,5 @@
+[![Banner](https://assets.ppy.sh/user-profile-covers/6117525/54f053e1e3c818c2728c971e210084dcd29b0a30afcc0e5ef800ad2786f8c161.jpeg)](https://github.com/keplerHaloxx)
+
 [![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&vCenter=true&width=435&lines=I+am+Haloxx)](https://git.io/typing-svg)
 
 ---
