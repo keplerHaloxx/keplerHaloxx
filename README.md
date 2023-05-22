@@ -8,7 +8,7 @@
 
 
 <table style="margin: 0px auto;">
-  <h2 style="text-align:center;">Languages</h2>
+  <h2 style="text-align:center; text-decoration: none; border-bottom: none;">Languages</h2>
   <thead>
     <tr>
       <th style="text-align: center;">Level</th>
@@ -51,7 +51,7 @@
 ---
 
   
-<h2 style="text-align:center;">Languages</h2>
+<h2 style="text-align:center; text-decoration: none; border-bottom: none;">Stats</h2>
 
 <a href="https://github.com/keplerHaloxx">
   <div style="text-align: center;">
