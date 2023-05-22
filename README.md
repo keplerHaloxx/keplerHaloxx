@@ -4,12 +4,12 @@
 
 ---
 
-<table>
-  <h2>Languages</h2>
+<table style="margin: 0px auto;">
+  <h2 style="text-align:center;">Languages</h2>
   <thead>
     <tr>
-      <th>Level</th>
-      <th>Image</th>
+      <th style="text-align: center;">Level</th>
+      <th style="text-align: center;">Image</th>
     </tr>
   </thead>
   <tbody>
@@ -27,7 +27,7 @@
       <td>
         <img src="images/java.png" width="32" alt="Java">
         <img src="images/cpp.png" width="32" alt="C++">
-        <img src="images/go.png" width="38" style="vertical-align: -4px;" alt="Go">
+        <img src="images/go.png" width="38" style="vertical-align: -5px;" alt="Go">
       </td>
     </tr>
     <tr>
@@ -39,16 +39,35 @@
       <td>Want To Learn</td>
       <td>
         <img src="images/kotlin.png" width="32" alt="Kotlin">
-        <img src="images/rust.png" width="34" style="vertical-align: -2px;" alt="Rust">
+        <img src="images/rust.png" width="34" style="vertical-align: -3px;" alt="Rust">
       </td>
     </tr>
   </tbody>
 </table>
 
 ---
+
+<style>
+  .center-image {
+    text-align: center;
+  }
+</style>
   
-## Stats
-[![Haloxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=keplerHaloxx&show_icons=true&theme=nord)](https://github.com/keplerHaloxx)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keplerHaloxx&layout=compact&theme=nord)](https://github.com/keplerHaloxx)
+<h2 style="text-align:center;">Languages</h2>
+
+<a href="https://github.com/keplerHaloxx">
+  <div class="center-image">
+    <img src="https://github-readme-stats.vercel.app/api?username=keplerHaloxx&show_icons=true&theme=nord" alt="Haloxx's GitHub stats">
+  </div>
+</a>
+
+<a href="https://github.com/keplerHaloxx">
+  <div class="center-image">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keplerHaloxx&layout=compact&theme=nord" alt="Top Languages">
+  </div>
+</a>
+
+
+
 
 ![](https://hit.yhype.me/github/profile?user_id=80098945)
