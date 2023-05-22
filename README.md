@@ -47,22 +47,17 @@
 
 ---
 
-<style>
-  .center-image {
-    text-align: center;
-  }
-</style>
   
 <h2 style="text-align:center;">Languages</h2>
 
 <a href="https://github.com/keplerHaloxx">
-  <div class="center-image">
+  <div style="text-align: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=keplerHaloxx&show_icons=true&theme=nord" alt="Haloxx's GitHub stats">
   </div>
 </a>
 
 <a href="https://github.com/keplerHaloxx">
-  <div class="center-image">
+  <div style="text-align: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keplerHaloxx&layout=compact&theme=nord" alt="Top Languages">
   </div>
 </a>
