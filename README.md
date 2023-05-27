@@ -76,8 +76,8 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=keplerHaloxx&theme=transparent" />
   </a>
   <a href="https://github.com/keplerHaloxx">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keplerHaloxx&langs_count=10&exclude_repo=&hide=&layout=default&card_width=699&hide_border=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keplerHaloxx&langs_count=10&exclude_repo=&hide=vim%20script,cmake,makefile,batchfile,emacs%20lisp&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
 
-<img src="https://hit.yhype.me/github/profile?user_id=80098945" alt="">
+![](https://hit.yhype.me/github/profile?user_id=80098945)
