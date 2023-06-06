@@ -64,7 +64,7 @@
   </a>
   <div>
     <a href="https://github.com/keplerHaloxx">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keplerHaloxx&hide_progress=false&langs_count=10&exclude_repo=Roblox-Chess-Bot&hide=vim%20script,cmake,makefile,batchfile,emacs%20lisp&card_width=699&hide_border=true&theme=transparent&size_weight=0.5&count_weight=0.5" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keplerHaloxx&hide_progress=false&langs_count=10&exclude_repo=Roblox-Chess-Bot&hide=vim%20script,cmake,makefile,batchfile,emacs%20lisp&card_width=699&hide_border=true&theme=github_dark&size_weight=0.5&count_weight=0.5" />
     </a>
   </div>
 </p>
