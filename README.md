@@ -53,18 +53,6 @@
   
 <h2 style="text-align:center; text-decoration: none; border-bottom: none;">Stats</h2>
 
-<!-- <a href="https://github.com/keplerHaloxx">
-  <div style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=keplerHaloxx&show_icons=true&theme=nord" alt="Haloxx's GitHub stats">
-  </div>
-</a>
-
-<a href="https://github.com/keplerHaloxx">
-  <div style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keplerHaloxx&layout=compact&theme=nord" alt="Top Languages">
-  </div>
-</a> -->
-
 <p align="center">
   <a href="https://github.com/keplerHaloxx">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keplerHaloxx&theme=transparent" />
@@ -75,7 +63,11 @@
   <a href="https://github.com/keplerHaloxx">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=keplerHaloxx&theme=transparent" />
   </a>
-  <a href="https://github.com/keplerHaloxx">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keplerHaloxx&langs_count=10&exclude_repo=&hide=vim%20script,cmake,makefile,batchfile,emacs%20lisp&layout=default&card_width=699&hide_border=true&theme=transparent" />
-  </a>
+  <div>
+    <a href="https://github.com/keplerHaloxx">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keplerHaloxx&hide_progress=false&langs_count=10&exclude_repo=Roblox-Chess-Bot&hide=vim%20script,cmake,makefile,batchfile,emacs%20lisp&card_width=699&hide_border=true&theme=transparent&size_weight=0.5&count_weight=0.5" />
+    </a>
+  </div>
 </p>
+
+![](https://hit.yhype.me/github/profile?user_id=80098945)
