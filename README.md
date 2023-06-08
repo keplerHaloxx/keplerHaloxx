@@ -1,5 +1,5 @@
 <a href="https://github.com/keplerHaloxx">
-  <img src="https://i.imgur.com/mDndYnW.jpg" alt="Banner">
+  <img src="./images/banner.gif" alt="Banner">
 </a>
 
 <a href="https://git.io/typing-svg">
