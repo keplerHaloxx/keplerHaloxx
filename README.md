@@ -30,13 +30,13 @@
         <img src="images/java.png" width="32" alt="Java">
         <img src="images/cpp.png" width="32" alt="C++">
         <img src="images/go.png" width="38" style="vertical-align: -5px;" alt="Go">
+        <img src="images/c.png" width="34" style="vertical-align: -4px;" alt="C">
       </td>
     </tr>
     <tr>
       <td>Learning</td>
       <td style="height: 35px;">
         <img src="images/rust.png" width="34" style="vertical-align: -3px;" alt="Rust">
-        <img src="images/c.png" width="34" style="vertical-align: -4px;" alt="C">
       </td>
     </tr>
     <tr>
