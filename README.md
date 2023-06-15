@@ -17,15 +17,15 @@
       <td>Intermediate</td>
       <td>
         <img src="images/python.png" width="32" alt="Python">
-        <img src="images/js.png" width="32" alt="JavaScript">
-        <img src="images/cs.png" width="32" style="vertical-align: -2px;" alt="C#">
-        <img src="images/lua.png" width="32" style="vertical-align: -2px" alt="Lua">
+        <img src="images/js.png" width="31" alt="JavaScript">
+        <img src="images/cs.png" width="34" style="vertical-align: -2px;" alt="C#">
+        <img src="images/lua.png" width="34" style="vertical-align: -2px" alt="Lua">
       </td>
     </tr>
     <tr>
       <td>Below Intermediate</td>
       <td>
-        <img src="images/rust.png" width="34" style="vertical-align: -3px;" alt="Rust">
+        <img src="images/rust.png" width="32" style="vertical-align: -3px;" alt="Rust">
       </td>
     </tr>
     <tr>
@@ -34,7 +34,7 @@
         <img src="images/java.png" width="32" alt="Java">
         <img src="images/cpp.png" width="32" style="vertical-align: -3px;" alt="C++">
         <img src="images/go.png" width="38" style="vertical-align: -5px;" alt="Go">
-        <img src="images/c.png" width="34" style="vertical-align: -4px;" alt="C">
+        <img src="images/c.png" width="29" style="vertical-align: -2px;" alt="C">
       </td>
     </tr>
     <tr>
