@@ -6,6 +6,12 @@
 
 <table style="margin: 0px auto;">
   <h2 style="text-align:center; text-decoration: none; border-bottom: none;">Languages</h2>
+  
+  <details>
+  <summary>:(</summary>
+  
+  ### GitHub doesn't support changes to vertical alignment of pictures so some of them are unaligned
+</details>
   <thead>
     <tr>
       <th style="text-align: center;">Level</th>
