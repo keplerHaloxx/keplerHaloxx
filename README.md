@@ -1,8 +1,10 @@
 [![Banner](https://github.com/keplerHaloxx/keplerHaloxx/assets/80098945/f879ba7d-87be-4834-b460-cd66a43b3f25)](https://github.com/keplerHaloxx)
 
+<!--
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?size=32&font=Fira+Code&duration=3500&pause=500&center=true&vCenter=true&width=975&lines=I+am+Haloxx" alt="Typing">
 </a>
+-->
 
 <table style="margin: 0px auto;">
   <h2 style="text-align:center; text-decoration: none; border-bottom: none;">Languages</h2>
