@@ -23,7 +23,6 @@
       <td>Intermediate</td>
       <td>
         <img src="images/python.png" width="32" alt="Python">
-        <img src="images/js.png" width="31" alt="JavaScript">
         <img src="images/cs.png" width="34" style="vertical-align: -2px;" alt="C#">
         <img src="images/lua.png" width="34" style="vertical-align: -2px" alt="Lua">
       </td>
@@ -32,6 +31,7 @@
       <td>Below Intermediate</td>
       <td>
         <img src="images/rust.png" width="32" style="vertical-align: -3px;" alt="Rust">
+        <img src="images/js.png" width="31" alt="JavaScript" style="vertical-align: -3px;">
       </td>
     </tr>
     <tr>
