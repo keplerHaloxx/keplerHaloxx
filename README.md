@@ -63,21 +63,29 @@
 
 <h2 style="text-align:center; text-decoration: none; border-bottom: none;">Stats</h2>
 
+[![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keplerHaloxx&theme=apprentice)](https://github.com/keplerHaloxx)
+[![LangsRepos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=keplerHaloxx&theme=apprentice&exclude=)](https://github.com/keplerHaloxx)
+[![LangsCommits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=keplerHaloxx&theme=apprentice&exclude=)](https://github.com/keplerHaloxx)
+[![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=keplerHaloxx&theme=apprentice)](https://github.com/keplerHaloxx)
+[![Productivity](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=keplerHaloxx&theme=apprentice&utcOffset=10)](https://github.com/keplerHaloxx)
+
+<!--
 <p align="center">
   <a href="https://github.com/keplerHaloxx">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keplerHaloxx&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keplerHaloxx&theme=apprentice" />
   </a>
   <a href="https://github.com/keplerHaloxx">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=keplerHaloxx&hide_border=true&card_width=338&theme=transparent" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=keplerHaloxx&hide_border=true&card_width=338&theme=apprentice" />
   </a>
   <a href="https://github.com/keplerHaloxx">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=keplerHaloxx&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=keplerHaloxx&theme=apprentice" />
   </a>
   <div>
     <a href="https://github.com/keplerHaloxx">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keplerHaloxx&hide_progress=false&langs_count=10&exclude_repo=Roblox-Chess-Bot&hide=vim%20script,cmake,makefile,batchfile,emacs%20lisp&card_width=699&hide_border=true&theme=github_dark" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keplerHaloxx&hide_progress=false&langs_count=10&card_width=699&hide_border=true&size_weight=0.5&count_weight=0.5&theme=github_dark" />
     </a>
   </div>
 </p>
-
+-->
+<!-- hide=vim%20script,cmake,makefile,batchfile,emacs%20lisp -->
 ![](https://hit.yhype.me/github/profile?user_id=80098945)
