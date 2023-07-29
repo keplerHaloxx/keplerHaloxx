@@ -11,8 +11,8 @@ jobs:
     name: generate
 
     steps:
-      - uses: actions/checkout@v2
-      - uses: keplerHaloxx/github-profile-summary-cards@release
+      - uses: actions/checkout@v3
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_TOKEN }}
         with:
