@@ -59,6 +59,17 @@
   </tbody>
 </table>
 
+<h2 style="text-align:center; text-decoration: none; border-bottom: none;">IDE's I Use</h2>
+
+<p float="left">
+  <a href="https://www.jetbrains.com/">
+    <img src="./images/jetbrains.svg" width="150" alt="JetBrains">
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="./images/vscode.svg" width="125" style="vertical-align: 13;" alt="VSCode">
+  </a>
+</p>
+
 ---
 
 <h2 style="text-align:center; text-decoration: none; border-bottom: none;">Currently Working On</h2>
