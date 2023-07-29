@@ -12,7 +12,7 @@
   <details>
   <summary>:(</summary>
   
-  ### GitHub doesn't support changes to vertical alignment of pictures so some of them are unaligned
+  ### GitHub adds boxes around the images and I cannot get rid of them because GitHub is annoying
 </details>
   <thead>
     <tr>
@@ -24,25 +24,55 @@
     <tr>
       <td>Intermediate</td>
       <td>
-        <img src="images/python.png" width="32" alt="Python">
-        <img src="images/cs.png" width="34" style="vertical-align: -2px;" alt="C#">
-        <img src="images/lua.png" width="34" style="vertical-align: -2px" alt="Lua">
+        <table>
+          <tr>
+            <td valign="center">
+              <img src="images/python.png" width="32" alt="Python">
+            </td>
+            <td valign="center">
+              <img src="images/cs.png" width="34" style="vertical-align: -2px;" alt="C#">
+            </td>
+            <td valign="center">
+              <img src="images/lua.png" width="34" style="vertical-align: -2px" alt="Lua">
+            </td>
+          </tr>
+        </table>
       </td>
     </tr>
     <tr>
       <td>Below Intermediate</td>
       <td>
-        <img src="images/rust.png" width="32" style="vertical-align: -3px;" alt="Rust">
-        <img src="images/js.png" width="31" alt="JavaScript" style="vertical-align: -3px;">
+        <table>
+          <tr>
+            <td valign="center">
+              <img src="images/rust.png" width="32" style="vertical-align: -3px;" alt="Rust">
+            </td>
+            <td valign="center">
+              <img src="images/js.png" width="31" alt="JavaScript" style="vertical-align: -3px;">
+            </td>
+          </tr>
+        </table>
       </td>
     </tr>
     <tr>
       <td>Beginner</td>
       <td>
-        <img src="images/java.png" width="32" alt="Java">
-        <img src="images/cpp.png" width="32" style="vertical-align: -3px;" alt="C++">
-        <img src="images/go.png" width="38" style="vertical-align: -5px;" alt="Go">
-        <img src="images/c.png" width="29" style="vertical-align: -2px;" alt="C">
+        <table>
+          <tr>
+            <td valign="center">
+              <img src="images/java.png" width="32" alt="Java">
+            </td>
+            <td valign="center">
+              <img src="images/cpp.png" width="32" style="vertical-align: -3px;" alt="C++">
+            </td>
+            <td valign="center">
+              <img src="images/go.png" width="38" style="vertical-align: -5px;" alt="Go">
+            </td>
+            <td valign="center">
+              <img src="images/c.png" width="29" style="vertical-align: -2px;" alt="C">
+            </td>
+          </tr>
+        </table>
       </td>
     </tr>
     <tr>
@@ -53,7 +83,13 @@
     <tr>
       <td>Want To Learn</td>
       <td>
-        <img src="images/kotlin.png" width="32" alt="Kotlin">
+        <table>
+          <tr>
+            <td valign="center">
+              <img src="images/kotlin.png" width="32" alt="Kotlin">
+            </td>
+          </tr>
+        </table>
       </td>
     </tr>
   </tbody>
@@ -61,14 +97,20 @@
 
 <h2 style="text-align:center; text-decoration: none; border-bottom: none;">IDE's I Use</h2>
 
-<p float="left">
-  <a href="https://www.jetbrains.com/">
-    <img src="./images/jetbrains.svg" width="150" alt="JetBrains">
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="./images/vscode.svg" width="125" style="vertical-align: 13;" alt="VSCode">
-  </a>
-</p>
+<table>
+  <tr>
+    <td valign="center">
+      <a href="https://www.jetbrains.com/">
+        <img src="./images/jetbrains.svg" width="150" alt="JetBrains">
+      </a>
+    </td>
+    <td valign="center">
+      <a href="https://code.visualstudio.com/">
+        <img src="./images/vscode.svg" width="125" style="vertical-align: 13;" alt="VSCode">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
