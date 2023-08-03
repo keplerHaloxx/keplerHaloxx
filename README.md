@@ -17,7 +17,7 @@
   <thead>
     <tr>
       <th style="text-align: center;">Level</th>
-      <th style="text-align: center;">Image</th>
+      <th style="text-align: center;">Language</th>
     </tr>
   </thead>
   <tbody>
