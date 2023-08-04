@@ -120,11 +120,13 @@
 
 <h2 style="text-align:center; text-decoration: none; border-bottom: none;">Stats</h2>
 
-[![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keplerHaloxx&theme=apprentice)](https://github.com/keplerHaloxx)
-[![LangsRepos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=keplerHaloxx&theme=apprentice&exclude=)](https://github.com/keplerHaloxx)
-[![LangsCommits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=keplerHaloxx&theme=apprentice&exclude=)](https://github.com/keplerHaloxx)
-[![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=keplerHaloxx&theme=apprentice)](https://github.com/keplerHaloxx)
-[![Productivity](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=keplerHaloxx&theme=apprentice&utcOffset=10)](https://github.com/keplerHaloxx)
+[![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keplerHaloxx&theme=apprentice)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![LangsRepos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=keplerHaloxx&theme=apprentice&exclude=)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![LangsCommits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=keplerHaloxx&theme=apprentice&exclude=)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=keplerHaloxx&theme=apprentice)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Productivity](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=keplerHaloxx&theme=apprentice&utcOffset=10)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=keplerHaloxx&theme=apprentice)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 <p align="center">
