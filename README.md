@@ -128,23 +128,12 @@
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=keplerHaloxx&theme=apprentice)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!--
-<p align="center">
-  <a href="https://github.com/keplerHaloxx">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keplerHaloxx&theme=apprentice" />
-  </a>
-  <a href="https://github.com/keplerHaloxx">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=keplerHaloxx&hide_border=true&card_width=338&theme=apprentice" />
-  </a>
-  <a href="https://github.com/keplerHaloxx">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=keplerHaloxx&theme=apprentice" />
-  </a>
-  <div>
-    <a href="https://github.com/keplerHaloxx">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keplerHaloxx&hide_progress=false&langs_count=10&card_width=699&hide_border=true&size_weight=0.5&count_weight=0.5&theme=github_dark" />
-    </a>
-  </div>
-</p>
--->
 <!-- hide=vim%20script,cmake,makefile,batchfile,emacs%20lisp -->
+<h2 style="text-align:center; text-decoration: none; border-bottom: none;">My Discord Profile</h2>
+
+
+![Discord Presence](https://lanyard.cnrad.dev/api/668276075260018698) <!-- (discord://-/users/668276075260018698) -->
+
+<!-- [![Discord Presence](https://lanyard.cnrad.dev/api/702973430449832038)](https://discord.com/users/702973430449832038) -->
+
 ![](https://hit.yhype.me/github/profile?user_id=80098945)
