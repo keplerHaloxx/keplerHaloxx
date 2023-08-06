@@ -116,23 +116,39 @@
 
 <h2 style="text-align:center; text-decoration: none; border-bottom: none;">Currently Working On</h2>
 
+<!-- DARK MODE -->
 [![Current Project](https://github-readme-stats.vercel.app/api/pin/?username=keplerHaloxx&repo=Roblox-Chess-Bot&theme=apprentice)](https://github.com/keplerHaloxx/Roblox-Chess-Bot)
+<!-- LIGHT MODE -->
+[![Current Project](https://github-readme-stats.vercel.app/api/pin/?username=keplerHaloxx&repo=Roblox-Chess-Bot&theme=nord_bright)](https://github.com/keplerHaloxx/Roblox-Chess-Bot)
 
 <h2 style="text-align:center; text-decoration: none; border-bottom: none;">Stats</h2>
 
-[![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keplerHaloxx&theme=apprentice)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![LangsRepos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=keplerHaloxx&theme=apprentice&exclude=)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![LangsCommits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=keplerHaloxx&theme=apprentice&exclude=)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=keplerHaloxx&theme=apprentice)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![Productivity](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=keplerHaloxx&theme=apprentice&utcOffset=10)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=keplerHaloxx&theme=apprentice)](https://github.com/ryo-ma/github-profile-trophy)
-
+<!-- DARK MODE -->
+[![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keplerHaloxx&theme=apprentice#gh-dark-mode-only)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 <!-- hide=vim%20script,cmake,makefile,batchfile,emacs%20lisp -->
+[![LangsRepos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=keplerHaloxx&theme=apprentice&exclude=#gh-dark-mode-only)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![LangsCommits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=keplerHaloxx&theme=apprentice&exclude=#gh-dark-mode-only)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=keplerHaloxx&theme=apprentice#gh-dark-mode-only)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Productivity](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=keplerHaloxx&theme=apprentice&utcOffset=10#gh-dark-mode-only)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=keplerHaloxx&theme=apprentice#gh-dark-mode-only)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- LIGHT MODE -->
+[![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keplerHaloxx&theme=nord_bright#gh-light-mode-only)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<!-- hide=vim%20script,cmake,makefile,batchfile,emacs%20lisp -->
+[![LangsRepos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=keplerHaloxx&theme=nord_bright&exclude=#gh-light-mode-only)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![LangsCommits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=keplerHaloxx&theme=nord_bright&exclude=#gh-light-mode-only)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=keplerHaloxx&theme=nord_bright#gh-light-mode-only)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Productivity](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=keplerHaloxx&theme=nord_bright&utcOffset=10#gh-light-mode-only)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=keplerHaloxx&theme=nord_bright#gh-light-mode-only)](https://github.com/ryo-ma/github-profile-trophy)
+
 <h2 style="text-align:center; text-decoration: none; border-bottom: none;">My Discord Profile</h2>
 
+<!-- DARK MODE -->
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/668276075260018698?animated=true&showDisplayName=true&theme=dark#gh-dark-mode-only)](https://discord.com/users/668276075260018698)
+<!-- LIGHT MODE -->
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/668276075260018698?animated=true&showDisplayName=true&theme=light#gh-light-mode-only)](https://discord.com/users/668276075260018698)
 
-![Discord Presence](https://lanyard.cnrad.dev/api/668276075260018698) <!-- (discord://-/users/668276075260018698) -->
+<!-- ![Discord Presence](https://lanyard.cnrad.dev/api/668276075260018698) (discord://-/users/668276075260018698) -->
 
 <!-- [![Discord Presence](https://lanyard.cnrad.dev/api/702973430449832038)](https://discord.com/users/702973430449832038) -->
 
