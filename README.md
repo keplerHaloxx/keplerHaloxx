@@ -74,6 +74,9 @@
             <td valign="center">
               <img src="images/c.png" width="29" style="vertical-align: -2px;" alt="C">
             </td>
+            <td valign="center">
+              <img src="images/kotlin.png" width="32" alt="Kotlin">
+            </td>
           </tr>
         </table>
       </td>
@@ -88,9 +91,6 @@
       <td>
         <table>
           <tr>
-            <td valign="center">
-              <img src="images/kotlin.png" width="32" alt="Kotlin">
-            </td>
           </tr>
         </table>
       </td>
