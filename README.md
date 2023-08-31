@@ -119,12 +119,10 @@
 
 <h2 style="text-align:center; text-decoration: none; border-bottom: none;">Currently Working On</h2>
 
-<!-- DARK MODE -->
-[![Current Project](https://github-readme-stats.vercel.app/api/pin/?username=keplerHaloxx&repo=Roblox-Chess-Bot&theme=apprentice)](https://github.com/keplerHaloxx/Roblox-Chess-Bot)
+<!-- [![Current Project](https://github-readme-stats.vercel.app/api/pin/?username=keplerHaloxx&repo=Roblox-Chess-Bot&theme=apprentice)](https://github.com/keplerHaloxx/Roblox-Chess-Bot) -->
 
 <h2 style="text-align:center; text-decoration: none; border-bottom: none;">Stats</h2>
 
-<!-- DARK MODE -->
 [![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keplerHaloxx&theme=apprentice)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 <!-- hide=vim%20script,cmake,makefile,batchfile,emacs%20lisp -->
 [![LangsRepos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=keplerHaloxx&theme=apprentice&exclude=)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -134,8 +132,6 @@
 [![Trophies](https://github-profile-trophy.vercel.app/?username=keplerHaloxx&theme=apprentice)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h2 style="text-align:center; text-decoration: none; border-bottom: none;">My Discord Profile</h2>
-
-<!-- DARK MODE -->
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/668276075260018698?animated=true&showDisplayName=true&theme=dark)](https://discord.com/users/668276075260018698)
 
 <!-- ![Discord Presence](https://lanyard.cnrad.dev/api/668276075260018698) (discord://-/users/668276075260018698) -->
