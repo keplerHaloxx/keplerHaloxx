@@ -135,4 +135,8 @@
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/668276075260018698?animated=true&showDisplayName=true&theme=dark)](https://discord.com/users/668276075260018698)
 
+<h2 style="text-align:center; text-decoration: none; border-bottom: none;">Profile Views</h2>
+
+![](https://komarev.com/ghpvc/?username=keplerHaloxx&style=for-the-badge)
+
 ![](https://hit.yhype.me/github/profile?user_id=80098945)
