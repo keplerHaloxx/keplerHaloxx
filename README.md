@@ -5,9 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?size=32&font=Fira+Code&duration=3500&pause=500&center=true&vCenter=true&width=975&lines=I+am+Haloxx" alt="Typing">
 </a>
 -->
-<h2 style="text-align:center; text-decoration: none; border-bottom: none;">Profile Views</h2>
-
-![](https://komarev.com/ghpvc/?username=keplerHaloxx&style=for-the-badge)
 
 <table style="margin: 0px auto;">
   <h2 style="text-align:center; text-decoration: none; border-bottom: none;">Languages</h2>
