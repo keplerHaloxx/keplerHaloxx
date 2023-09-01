@@ -27,9 +27,6 @@
             <td valign="center">
               <img src="images/cs.png" width="34" style="vertical-align: -2px;" alt="C#">
             </td>
-            <td valign="center">
-              <img src="images/lua.png" width="34" style="vertical-align: -2px" alt="Lua">
-            </td>
           </tr>
         </table>
       </td>
@@ -44,6 +41,9 @@
             </td>
             <td valign="center">
               <img src="images/js.png" width="31" alt="JavaScript" style="vertical-align: -3px;">
+            </td>
+            <td valign="center">
+              <img src="images/lua.png" width="34" style="vertical-align: -2px" alt="Lua">
             </td>
           </tr>
         </table>
