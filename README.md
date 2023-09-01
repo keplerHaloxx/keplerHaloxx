@@ -132,10 +132,7 @@
 [![Trophies](https://github-profile-trophy.vercel.app/?username=keplerHaloxx&theme=apprentice)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h2 style="text-align:center; text-decoration: none; border-bottom: none;">My Discord Profile</h2>
+
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/668276075260018698?animated=true&showDisplayName=true&theme=dark)](https://discord.com/users/668276075260018698)
-
-<!-- ![Discord Presence](https://lanyard.cnrad.dev/api/668276075260018698) (discord://-/users/668276075260018698) -->
-
-<!-- [![Discord Presence](https://lanyard.cnrad.dev/api/702973430449832038)](https://discord.com/users/702973430449832038) -->
 
 ![](https://hit.yhype.me/github/profile?user_id=80098945)
