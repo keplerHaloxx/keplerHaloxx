@@ -9,11 +9,6 @@
 <table style="margin: 0px auto;">
   <h2 style="text-align:center; text-decoration: none; border-bottom: none;">Languages</h2>
   
-  <details>
-  <summary>:(</summary>
-  
-  ### GitHub adds boxes around the images and I cannot get rid of them because GitHub is annoying
-</details>
   <thead>
     <tr>
       <th style="text-align: center;">Level</th>
