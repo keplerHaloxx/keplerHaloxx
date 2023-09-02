@@ -45,6 +45,9 @@
             <td valign="center">
               <img src="images/lua.png" width="34" style="vertical-align: -2px" alt="Lua">
             </td>
+            <td valign="center">
+              <img src="images/kotlin.png" width="32" alt="Kotlin">
+            </td>
           </tr>
         </table>
       </td>
@@ -65,9 +68,6 @@
             </td>
             <td valign="center">
               <img src="images/c.png" width="29" style="vertical-align: -2px;" alt="C">
-            </td>
-            <td valign="center">
-              <img src="images/kotlin.png" width="32" alt="Kotlin">
             </td>
           </tr>
         </table>
