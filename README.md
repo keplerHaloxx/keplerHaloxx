@@ -1,4 +1,4 @@
-<[![Banner](https://github.com/keplerHaloxx/keplerHaloxx/assets/80098945/f879ba7d-87be-4834-b460-cd66a43b3f25)](https://github.com/keplerHaloxx)
+[![Banner](https://github.com/keplerHaloxx/keplerHaloxx/assets/80098945/f879ba7d-87be-4834-b460-cd66a43b3f25)](https://github.com/keplerHaloxx)
 
 <!--
 <a href="https://git.io/typing-svg">
@@ -123,11 +123,17 @@
 [![Productivity](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=keplerHaloxx&theme=apprentice&utcOffset=10)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![Trophies](https://github-profile-trophy.vercel.app/?username=keplerHaloxx&theme=apprentice)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h2 style="text-align:center; text-decoration: none; border-bottom: none;">My Discord Profile</h2>
+<h2 style="text-align:center; text-decoration: none; border-bottom: none;">Other Stats</h2>
+
+<h3 style="text-align:center; text-decoration: none; border-bottom: none;">My Discord Profile</h3>
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/668276075260018698?animated=true&showDisplayName=true&theme=dark)](https://discord.com/users/668276075260018698)
 
-<h2 style="text-align:center; text-decoration: none; border-bottom: none;">Profile Views</h2>
+<h3 style="text-align:center; text-decoration: none; border-bottom: none;">WakaTime</h3>
+
+[![wakatime](https://wakatime.com/badge/user/c22479de-5777-45c7-ad5f-15e098b655af.svg?style=for-the-badge)](https://wakatime.com/@c22479de-5777-45c7-ad5f-15e098b655af)
+
+<h3 style="text-align:center; text-decoration: none; border-bottom: none;">Profile Views</h3>
 
 ![](https://komarev.com/ghpvc/?username=keplerHaloxx&style=for-the-badge)
 
