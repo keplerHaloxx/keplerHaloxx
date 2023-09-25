@@ -43,7 +43,7 @@
               <img src="images/js.png" width="31" alt="JavaScript" style="vertical-align: -3px;">
             </td>
             <td valign="center">
-              <img src="images/lua.png" width="34" style="vertical-align: -2px" alt="Lua">
+              <img src="images/luau.png" width="40" alt="Lua">
             </td>
             <td valign="center">
               <img src="images/kotlin.png" width="32" alt="Kotlin">
