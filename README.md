@@ -55,7 +55,7 @@
         <table>
           <tr>
             <td valign="center">
-              <img src="images/java.png" width="32" alt="Java">
+              <img src="images/java.png" width="33" alt="Java">
             </td>
             <td valign="center">
               <img src="images/cpp.png" width="32" style="vertical-align: -3px;" alt="C++">
@@ -75,7 +75,14 @@
     </tr>
     <tr>
       <td>Learning</td>
-      <td style="height: 35px;">
+      <td>
+        <table>
+          <tr>
+            <td valign="center">
+              <img src="images/typescript.png" width="33" alt="Kotlin">
+            </td>
+          </tr>
+        </table>
       </td>
     </tr>
     <tr>
