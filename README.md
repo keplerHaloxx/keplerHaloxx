@@ -25,9 +25,6 @@
             <td valign="center">
               <img src="images/python.png" width="32" alt="Python">
             </td>
-            <td valign="center">
-              <img src="images/cs.png" width="34" style="vertical-align: -2px;" alt="C#">
-            </td>
           </tr>
         </table>
       </td>
@@ -45,6 +42,9 @@
             </td>
             <td valign="center">
               <img src="images/luau.png" width="40" alt="Lua">
+            </td>
+            <td valign="center">
+              <img src="images/cs.png" width="34" style="vertical-align: -2px;" alt="C#">
             </td>
           </tr>
         </table>
