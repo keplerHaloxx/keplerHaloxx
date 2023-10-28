@@ -137,11 +137,11 @@
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/668276075260018698?animated=true&showDisplayName=true&theme=dark)](https://discord.com/users/668276075260018698)
 
-<h3 style="text-align:center; text-decoration: none; border-bottom: none;">WakaTime</h3>
+<!-- <h3 style="text-align:center; text-decoration: none; border-bottom: none;">WakaTime</h3> -->
 
 [![wakatime](https://wakatime.com/badge/user/c22479de-5777-45c7-ad5f-15e098b655af.svg?style=for-the-badge)](https://wakatime.com/@c22479de-5777-45c7-ad5f-15e098b655af)
 
-<h3 style="text-align:center; text-decoration: none; border-bottom: none;">Profile Views</h3>
+<!-- <h3 style="text-align:center; text-decoration: none; border-bottom: none;">Profile Views</h3> -->
 
 ![](https://komarev.com/ghpvc/?username=keplerHaloxx&style=for-the-badge)
 
