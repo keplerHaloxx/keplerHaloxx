@@ -1,5 +1,6 @@
 <!-- [![Banner](https://github.com/keplerHaloxx/keplerHaloxx/assets/80098945/f879ba7d-87be-4834-b460-cd66a43b3f25)](https://github.com/keplerHaloxx) -->
-[![Banner](images/gojo.gif)](https://github.com/keplerHaloxx)
+[![Banner](images/gojo-satoru-trailer-2-jujutsu-kaisen-window.gif
+)](https://github.com/keplerHaloxx)
 
 <!--
 <a href="https://git.io/typing-svg">
