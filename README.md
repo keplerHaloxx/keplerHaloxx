@@ -35,7 +35,7 @@
         <table>
           <tr>
             <td valign="center">
-              <img src="images/rust.png" width="32" style="vertical-align: -3px;" alt="Rust">
+              <img src="images/rustlogo.png" width="32" style="vertical-align: -3px;" alt="Rust">
             </td>
             <td valign="center">
               <img src="images/js.png" width="31" alt="JavaScript" style="vertical-align: -3px;">
