@@ -16,7 +16,7 @@ jobs:
           config_display: columns
           base: header, activity, community, repositories
           commits_authoring: keplerHaloxx
-          config_timezone: Europe/Germany
+          config_timezone: Australia/Melbourne
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
