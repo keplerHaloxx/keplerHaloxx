@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?size=32&font=Fira+Code&duration=3500&pause=500&center=true&vCenter=true&width=975&lines=I+am+Haloxx" alt="Typing">
 </a>
 -->
-
+<!--
 <table style="margin: 0px auto;">
   <h2 style="text-align:center; text-decoration: none; border-bottom: none;">Languages</h2>
   
@@ -97,7 +97,7 @@
     </tr>
   </tbody>
 </table>
-
+-->
 <h2 style="text-align:center; text-decoration: none; border-bottom: none;">IDE's I Use</h2>
 
 <table>
