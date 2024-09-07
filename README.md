@@ -115,8 +115,6 @@
   </tr>
 </table>
 
----
-
 <h2 style="text-align:center; text-decoration: none; border-bottom: none;">Currently Working On</h2>
 
 <!-- [![Current Project](https://github-readme-stats.vercel.app/api/pin/?username=keplerHaloxx&repo=Roblox-Chess-Bot&theme=apprentice)](https://github.com/keplerHaloxx/Roblox-Chess-Bot) -->
