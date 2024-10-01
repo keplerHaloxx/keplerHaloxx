@@ -112,7 +112,7 @@
   </tr>
 </table>
 
-<h2 style="text-align:center; text-decoration: none; border-bottom: none;">Currently Working On</h2>
+<!-- <h2 style="text-align:center; text-decoration: none; border-bottom: none;">Currently Working On</h2> -->
 
 <!-- [![Current Project](https://github-readme-stats.vercel.app/api/pin/?username=keplerHaloxx&repo=Roblox-Chess-Bot&theme=apprentice)](https://github.com/keplerHaloxx/Roblox-Chess-Bot) -->
 
@@ -126,7 +126,7 @@
 [![Productivity](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=keplerHaloxx&theme=apprentice&utcOffset=10)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![Trophies](https://github-profile-trophy.vercel.app/?username=keplerHaloxx&theme=apprentice)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h2 style="text-align:center; text-decoration: none; border-bottom: none;">Other Stats</h2>
+<!-- <h2 style="text-align:center; text-decoration: none; border-bottom: none;">Other Stats</h2> -->
 
 <h3 style="text-align:center; text-decoration: none; border-bottom: none;">My Discord Profile</h3>
 
