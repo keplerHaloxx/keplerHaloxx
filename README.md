@@ -127,7 +127,7 @@
 -->
 
 <a href="https://github.com/keplerHaloxx" style="padding-right=10px">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=keplerHaloxx&rank_icon=github&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&card_width=450" alt="Github Stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=keplerHaloxx&rank_icon=github&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&card_width=475" alt="Github Stats">
 </a>
 <a href="https://github.com/keplerHaloxx">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keplerHaloxx&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&card_width=400" alt="Most Used Languages">
