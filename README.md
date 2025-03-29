@@ -134,7 +134,7 @@
 </a>
 
 <h2 style="text-align:center; text-decoration: none; border-bottom: none;">Favourite Repo</h2>
-<a>
+<a href="https://github.com/keplerHaloxx/roblox-chess-script">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=keplerHaloxx&repo=roblox-chess-script&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="roblox-chess-script repo">
 </a>
 
