@@ -118,17 +118,37 @@
 
 <h2 style="text-align:center; text-decoration: none; border-bottom: none;">Stats</h2>
 
-[![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keplerHaloxx&theme=apprentice)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-<!-- hide=vim%20script,cmake,makefile,batchfile,emacs%20lisp -->
+<!--
 [![LangsRepos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=keplerHaloxx&theme=apprentice&exclude=)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![LangsCommits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=keplerHaloxx&theme=apprentice&exclude=)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=keplerHaloxx&theme=apprentice)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![Productivity](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=keplerHaloxx&theme=apprentice&utcOffset=10)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![Trophies](https://github-profile-trophy.vercel.app/?username=keplerHaloxx&theme=apprentice)](https://github.com/ryo-ma/github-profile-trophy)
+-->
+
+<a href="https://github.com/keplerHaloxx" style="padding-right=10px">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=keplerHaloxx&rank_icon=github&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Github Stats">
+</a>
+<a href="https://github.com/keplerHaloxx">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keplerHaloxx&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Most Used Languages">
+</a>
+
+<h2 style="text-align:center; text-decoration: none; border-bottom: none;">Favourite Repo</h2>
+<a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=keplerHaloxx&repo=roblox-chess-script&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="roblox-chess-script repo">
+</a>
+
+<!--
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=keplerHaloxx&rank_icon=github&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/keplerHaloxx)
+
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keplerHaloxx&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/keplerHaloxx)
+-->
+
+
 
 <!-- <h2 style="text-align:center; text-decoration: none; border-bottom: none;">Other Stats</h2> -->
 
-<h3 style="text-align:center; text-decoration: none; border-bottom: none;">My Discord Profile</h3>
+<h2 style="text-align:center; text-decoration: none; border-bottom: none;">My Discord Profile</h3>
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/668276075260018698?animated=true&showDisplayName=true&theme=dark)](https://discord.com/users/668276075260018698)
 
